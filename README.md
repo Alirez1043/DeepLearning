@@ -17,6 +17,8 @@
 
 <img src="https://github.com/Alirez1043/DeepLearning/blob/main/Assighments/3/TensorBoard.png" width="300" height="250">       <img src="https://github.com/Alirez1043/DeepLearning/blob/main/Assighments/3/Model-Layers.png" width="300" height="250">
 
-3.2 [Find Best LearningRate with Cylical(Hoda)](https://github.com/Alirez1043/DeepLearning/blob/main/Assighments/3/Callback_3_2.ipynb)  [  Find_Best_LearningRate_With_Schedule](https://github.com/Alirez1043/DeepLearning/blob/main/Assighments/3/Learning_Rate_Finder_On_Hode(Using_Scheduler).ipynb)
+3.2 [Find Best LearningRate with Cylical(Hoda)](https://github.com/Alirez1043/DeepLearning/blob/main/Assighments/3/Callback_3_2.ipynb)
+
+   [Find_Best_LearningRate_With_Schedule(Hoda)](https://github.com/Alirez1043/DeepLearning/blob/main/Assighments/3/Learning_Rate_Finder_On_Hode(Using_Scheduler).ipynb)
 
 3.3 [Stop Training(Custom Callback)](https://github.com/Alirez1043/DeepLearning/blob/main/Assighments/3/Callback_3_3.ipynb)
